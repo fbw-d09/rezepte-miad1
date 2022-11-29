@@ -1,6 +1,7 @@
 ### Pasta Quattro Formaggi – Nudeln mit 4-Käse-Sauce
 
-![Dies ist ein Testbild](pasta.png)
+![Dies ist ein Testbild](kässe1.jpg)
+
 
 ###### Für das Rezept habe ich mir vier Käsesorten mit sehr guter Schmelzeigenschaft ausgesucht, die ich einzeln schon sehr gerne esse, und die ganz vorzüglich miteinander harmonieren: Taleggio, Mozzarella, Emmentaler und Parmesan.
 
